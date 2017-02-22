@@ -1,0 +1,27 @@
+body {
+  background: #F9EDCC;
+}
+
+h1 {
+  color: #DD0002;
+}
+
+li {
+  list-style: none;
+  color: #8DA7BE;
+}
+
+#name {
+  float: left;
+  display: inline;
+}
+
+.chardetails {
+  display: block;
+  float: right;
+  margin: 10px;
+   }
+
+.stats {
+  margin: 5px 0px 5px 0px;
+}
